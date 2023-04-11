@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseProjectTsu</string>
+
+    <string name="enter_your_email">enter your email</string>
+    <string name="sign_up">sign up</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="login">login</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="update_password">update password</string>
+
+</resources>
